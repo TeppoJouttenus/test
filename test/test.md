@@ -14,7 +14,6 @@
 <!-- @section -->
 
 1.  On your Local Dev Site, go to Modules page to enable these modules:
-
     - Chaos Tools
     - Features
     - Views
