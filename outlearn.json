@@ -4,7 +4,7 @@
   "paths" : [
     {
       "name" : "test",
-      "title" : "This is a path for testing purposes",
+      "title" : "Crash Course to Angular",
       "description" : "Checking things out.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
