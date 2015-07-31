@@ -10,13 +10,13 @@
       "privacy" : "public",
       "collaborationChannel" : "https://outlearn.slack.com/messages/general/",
       "pages" : [
-        {"module" : "test"}
+        {"module" : "angular-test"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./test/test.md"}
+    {"olm" : "./test/angular-test.md"}
   ],
 
   "assets" : [
