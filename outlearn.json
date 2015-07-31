@@ -8,7 +8,7 @@
       "description" : "Checking things out.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
-      "collaborationChannel" : "https://outlearn.slack.com/messages/general/"
+      "collaborationChannel" : "https://outlearn.slack.com/messages/general/",
       "pages" : [
         {"module" : "test"}
       ]
