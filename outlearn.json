@@ -2,6 +2,16 @@
   "olpVersion" : "0.1",
 
   "paths" : [
+    {
+      "name" : "test",
+      "title" : "Test",
+      "description" : "Checking things out.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "test"}
+      ]
+    }
   ],
 
   "modules" : [
