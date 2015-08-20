@@ -3,7 +3,8 @@
 "name" : "angular-test",
 "version" : "0.1",
 "title" : "Angular Concepts",
-"description": "Dive into AngularJS",
+"description" : "Dive into AngularJS",
+"tags" : "angularjs javascript"
 "freshnessDate" : 2015-06-01,
 "canonicalSource" : "https://docs.angularjs.org/guide/concepts",
 "homepage" : "https://docs.angularjs.org/guide",
