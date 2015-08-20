@@ -16,8 +16,7 @@
   ],
 
   "modules" : [
-    {"module" : "angular-test",
-        "preface" : "Check out this awesome stuff on Angular"}
+    {"module" : "angular-test"}
   ],
 
   "assets" : [
