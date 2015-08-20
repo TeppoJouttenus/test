@@ -16,7 +16,8 @@
   ],
 
   "modules" : [
-    {"olm" : "./test/angular-test.md"}
+    {"module" : "angular-test",
+        "preface" : "Check out this awesome stuff on Angular"}
   ],
 
   "assets" : [
