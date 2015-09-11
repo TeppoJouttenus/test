@@ -10,6 +10,7 @@
       "privacy" : "private",
       "collaborationChannel" : "https://gitter.im/outlearn-content/Collaboration",
       "pages" : [
+        {"page" : "./pages/welcome.md"}
         {"module" : "angular-test"}
       ]
     }
