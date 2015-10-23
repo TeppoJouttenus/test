@@ -7,6 +7,18 @@
       "title" : "Crash Course to Angular",
       "description" : "Learn Angular at lightning speed.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "private",
+      "collaborationChannel" : "https://gitter.im/outlearn-content/Collaboration",
+      "pages" : [
+        {"page" : "./pages/welcome.md"},
+        {"module" : "angular-test"}
+      ]
+    },
+    {
+      "name" : "test2",
+      "title" : "Crash Course to Angular 2",
+      "description" : "Learn Angular at lightning speed.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "collaborationChannel" : "https://gitter.im/outlearn-content/Collaboration",
       "pages" : [
