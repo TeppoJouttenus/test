@@ -7,7 +7,7 @@
       "title" : "Crash Course to Angular",
       "description" : "Learn Angular at lightning speed.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
-      "privacy" : "public",
+      "privacy" : "private",
       "collaborationChannel" : "https://gitter.im/outlearn-content/Collaboration",
       "pages" : [
         {"page" : "./pages/welcome.md"},
