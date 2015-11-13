@@ -24,7 +24,7 @@
 <iframe src="//solutions.brightcove.com/bcls/tests/outlearn-player-solution.html" style="width:520px;height:580px" frameborder="0"></iframe>
 
 This section briefly touches on all of the important parts of AngularJS using a simple example.
-For a more in-depth explanation, see the [tutorial](https://pilot.outlearn.com/learn/ShieldSensei/angular-crash-course/7).
+For a more in-depth explanation, see the [tutorial](https://www.outlearn.com/learn/ShieldSensei/angular-crash-course/7).
 
 | Concept          | Description                     |
 |------------------|------------------------------------------|
