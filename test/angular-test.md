@@ -19,6 +19,12 @@
 <!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS" -->
 
 
+
+<!-- @link, "url" : "https://www.youtube.com/watch?v=5MgBikgcWnY", "text": "Install NodeJS", "prefer" : "embed" -->
+<!-- @link, "url" : "https://www.youtube.com/watch?v=5MgBikgcWnY", "text": "Install NodeJS", "prefer" : "screenshot" -->
+<!-- @link, "url" : "https://www.youtube.com/watch?v=5MgBikgcWnY", "text": "Install NodeJS" -->
+
+
 Here we see that iframeable works.
 
 <!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS", "iframeable" : true -->
