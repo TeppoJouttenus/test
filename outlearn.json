@@ -4,7 +4,7 @@
   "paths" : [
     {
       "name" : "test",
-      "title" : "Crash Course to Angular",
+      "title" : "Test Course 1",
       "description" : "Learn Angular at lightning speed.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "private",
@@ -16,7 +16,7 @@
     },
     {
       "name" : "test2",
-      "title" : "Crash Course to Angular 2",
+      "title" : "Test Course 2",
       "description" : "Learn Angular at lightning speed.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
