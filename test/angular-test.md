@@ -15,8 +15,6 @@
 
 # Conceptual Overview
 
-<!-- @link, "url": "https://nodejs.org", "faviconUrl" : "https://en.wikipedia.org/favicon.ico", "title": "Node with Wiki", "description": "Best description ever" -->
-
-<!-- @link, "url" : "https://nodejs.org/", "text": "Install NodeJS" -->
-
-<!-- @link, "url" : "https://nodejs.org/", "iframeable" : true, "text": "Install NodeJS" -->
+<!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS", "faviconUrl" : "http://code-maven.com/img/node.png", "title": "Node with Wiki", "description": "Best description ever" -->
+<!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS" -->
+<!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS", "iframeable" : true -->
