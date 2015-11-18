@@ -19,7 +19,7 @@ Override link
 
 <!-- @link, "url" : "https://nodejs.org", "text": "Put to practice NodeJS", "imageUrl" : "http://code-maven.com/img/node.png", "title": "Node with Wiki", "description": "Best description ever, take this to heart and remember it for ages to come." -->
 
-Not oveerriden ink.
+Not over-riden link.
 
 <!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS" -->
 
