@@ -15,7 +15,12 @@
 
 # Conceptual Overview
 
-<!-- @link, "url" : "https://nodejs.org", "text": "Put to practice NodeJS", "faviconUrl" : "http://code-maven.com/img/node.png", "title": "Node with Wiki", "description": "Best description ever, take this to heart and remember it for ages to come." -->
+Override link
+
+<!-- @link, "url" : "https://nodejs.org", "text": "Put to practice NodeJS", "imageUrl" : "http://code-maven.com/img/node.png", "title": "Node with Wiki", "description": "Best description ever, take this to heart and remember it for ages to come." -->
+
+Not oveerriden ink.
+
 <!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS" -->
 
 
