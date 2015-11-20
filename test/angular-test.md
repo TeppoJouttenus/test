@@ -23,7 +23,11 @@ Not over-riden link.
 
 <!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS" -->
 
+Not over-riden link with screenshot
 
+<!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS", "prefer" : "screenshot" -->
+
+Youtube videos
 
 <!-- @link, "url" : "https://www.youtube.com/watch?v=5MgBikgcWnY", "text": "Install NodeJS", "prefer" : "embed" -->
 <!-- @link, "url" : "https://www.youtube.com/watch?v=5MgBikgcWnY", "text": "Install NodeJS", "prefer" : "screenshot" -->
