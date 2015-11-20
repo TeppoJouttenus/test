@@ -17,7 +17,7 @@
     },
     {
       "name" : "test2",
-      "title" : "Understanding Angular",
+      "title" : "Understanding Node.js",
       "description" : "Learn Angular at lightning speed.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "collaborationChannel" : "https://outlearn.slack.com/messages/collaboration/",
