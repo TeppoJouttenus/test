@@ -24,6 +24,7 @@
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "test"},
+        {"module" : "angular-test"},
         {"module" : "angularjs/expression"}
       ]
     }
