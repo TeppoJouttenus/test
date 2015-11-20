@@ -2,9 +2,10 @@
 {
 "name" : "test",
 "version" : "0.1",
-"title" : "Test",
+"title" : "Now figuring out privacy",
 "description": "Mock-ups",
 "freshnessDate" : 2015-06-01,
+"privacy" : "private",
 "homepage" : "http://www.outlearn.com",
 "author" : "Teppo Jouttenus",
 "license" : "All Rights Reserved"
