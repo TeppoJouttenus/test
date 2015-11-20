@@ -27,7 +27,7 @@ Basic link w text
 
 Override link
 
-<!-- @link, "url" : "https://nodejs.org", "text": "Put to practice NodeJS", "imageUrl" : "http://code-maven.com/img/node.png", "title": "Node with Wiki", "description": "Best description ever, take this to heart and remember it for ages to come." -->
+<!-- @link, "url" : "https://nodejs.org", "text": "Learn more about Node.js", "imageUrl" : "http://code-maven.com/img/node.png", "title": "Official Node.js site", "description": "Node.js is a JavaScript runtime which uses an event-driven, non-blocking I/O model that makes it lightweight and efficient." -->
 
 Not over-riden link with screenshot
 
