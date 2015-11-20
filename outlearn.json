@@ -20,7 +20,7 @@
       "description" : "Learn Angular at lightning speed.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
-      "collaborationChannel" : "https://gitter.im/outlearn-content/Collaboration",
+      "collaborationChannel" : "https://outlearn.slack.com/messages/collaboration/",
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "angular-test"}
