@@ -15,17 +15,23 @@
 
 # Conceptual Overview
 
-Override link
 
-<!-- @link, "url" : "https://nodejs.org", "text": "Put to practice NodeJS", "imageUrl" : "http://code-maven.com/img/node.png", "title": "Node with Wiki", "description": "Best description ever, take this to heart and remember it for ages to come." -->
 
 Not over-riden link.
 
 <!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS" -->
 
+Override link
+
+<!-- @link, "url" : "https://nodejs.org", "text": "Put to practice NodeJS", "imageUrl" : "http://code-maven.com/img/node.png", "title": "Node with Wiki", "description": "Best description ever, take this to heart and remember it for ages to come." -->
+
 Not over-riden link with screenshot
 
 <!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS", "prefer" : "screenshot" -->
+
+Override link with screenshot
+
+<!-- @link, "url" : "https://nodejs.org", "text": "Put to practice NodeJS", "imageUrl" : "http://code-maven.com/img/node.png", "title": "Node with Wiki", "description": "Best description ever, take this to heart and remember it for ages to come." , "prefer" : "screenshot" -->
 
 Youtube videos
 
