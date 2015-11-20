@@ -17,7 +17,11 @@
 
 
 
-Not over-riden link.
+Basic link
+
+<!-- @link, "url" : "https://nodejs.org" -->
+
+Basic link w text
 
 <!-- @link, "url" : "https://nodejs.org", "text": "Install NodeJS" -->
 
