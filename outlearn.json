@@ -11,7 +11,8 @@
       "collaborationChannel" : "https://gitter.im/outlearn-content/Collaboration",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "angular-test"}
+        {"module" : "test"},
+        {"module" : "angularjs/expression"}
       ]
     },
     {
@@ -23,7 +24,8 @@
       "collaborationChannel" : "https://outlearn.slack.com/messages/collaboration/",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "angular-test"}
+        {"module" : "test"},
+        {"module" : "angularjs/expression"}
       ]
     }
   ],
