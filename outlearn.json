@@ -7,11 +7,11 @@
       "title" : "Test Course 1",
       "description" : "Learn Angular at lightning speed.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
-      "privacy" : "private",
+      "privacy" : "public",
       "collaborationChannel" : "https://gitter.im/outlearn-content/Collaboration",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "test"},
+        {"module" : "test3"},
         {"module" : "angularjs/expression"}
       ]
     },
@@ -20,6 +20,7 @@
       "title" : "Understanding Node.js",
       "description" : "Learn Angular at lightning speed.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "public",
       "collaborationChannel" : "https://outlearn.slack.com/messages/collaboration/",
       "pages" : [
         {"page" : "./pages/welcome.md"},
@@ -32,7 +33,9 @@
 
   "modules" : [
     {"olm" : "./test/angular-test.md"},
-    {"olm" : "./test/test.md"}
+    {"olm" : "./test/test.md"},
+    {"olm" : "./test/test2.md"},
+    {"olm" : "./test/test3.md"}
   ],
 
   "assets" : [
